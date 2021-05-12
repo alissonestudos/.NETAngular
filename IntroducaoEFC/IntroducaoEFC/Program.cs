@@ -27,12 +27,15 @@ namespace IntroducaoEFC
             //    //enviar aviso para executar migrações pendentes por exemplo.
             //}
 
+            //teste para apagar
             InsereDados();
             InsereDadosEmMassa();
             InsereDadosEmMassa2();
             //ConsultaDados();
-            CadastraPedido();
+            //CadastraPedido();
             //ConsultarPedidosCarregamentoAdiantado();
+            //CadastraPedido();
+            ConsultarPedidosCarregamentoAdiantado();
             //AtualizaDado();
             //RemoveRegistro();
 
