@@ -33,6 +33,8 @@ namespace IntroducaoEFC
             InsereDadosEmMassa2();
             //ConsultaDados();
             //CadastraPedido();
+            //ConsultarPedidosCarregamentoAdiantado();
+            //CadastraPedido();
             ConsultarPedidosCarregamentoAdiantado();
             //AtualizaDado();
             //RemoveRegistro();
