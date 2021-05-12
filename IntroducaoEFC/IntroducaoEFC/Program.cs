@@ -30,7 +30,7 @@ namespace IntroducaoEFC
             //teste para apagar
             InsereDados();
             InsereDadosEmMassa();
-            //InsereDadosEmMassa2();
+            InsereDadosEmMassa2();
             //ConsultaDados();
             //CadastraPedido();
             //ConsultarPedidosCarregamentoAdiantado();
